@@ -2,3 +2,7 @@
 	path = common
 	url = ../common-port
 	branch = main
+[submodule "base"]
+	path = base
+	url = ../android-port-base
+	branch = main
